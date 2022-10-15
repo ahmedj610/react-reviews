@@ -1,2 +1,2 @@
-# react-review
-Created with CodeSandbox
+# React Reviews Component
+Created with ReactJS
