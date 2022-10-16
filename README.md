@@ -1,3 +1,3 @@
 # React Reviews Component
-Created with ReactJS
-Live Site Url: https://monumental-kitsune-3725ca.netlify.app/
+Created with ReactJS\
+Live site url: https://monumental-kitsune-3725ca.netlify.app/
